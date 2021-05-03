@@ -1,2 +1,2 @@
-# Data-Intensive-Programming
-Repository to track development of stories on Data Intensive Programming
+# All Things Data
+a community-driven group dedicated to learning data science and software engineering
